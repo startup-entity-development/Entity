@@ -1,7 +1,7 @@
 
 
 
-Nordeste Project API: Real-time Notifications and Task Creation
+Entity Project API: Real-time Notifications and Task Creation
 
 
 A GraphQL API written in Python utilizing WebSockets for Push Messages
